@@ -1,0 +1,38 @@
+boxtop{
+    border:solid 5px;
+    border-color:aqua;
+}
+.box{
+    border:solid 10px;
+    border-color:darkslategray;
+}
+.one{
+    text-align: center;
+    color:blueviolet;
+}
+.two{
+    font-style: oblique;
+    color:black;
+    text-align: center;
+}
+.three{
+    color:red;
+    text-align: center;
+}
+.imgp{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width:75%;
+     height:50%;
+
+}
+.h{
+    text-align: center;
+}
+.column {
+    float: left;
+    width: 25%;
+    padding: 0 10px;
+  }
+.b{background-color:rgb(190, 184, 195)
